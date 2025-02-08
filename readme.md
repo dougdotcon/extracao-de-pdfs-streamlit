@@ -92,6 +92,3 @@ Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para 
 ---
 
 **Criado por Douglas H. Machado.**  
-```
-
-Quer que eu adicione algum exemplo visual (captura de tela) ou instruções específicas para cada modelo no `README.md`?
